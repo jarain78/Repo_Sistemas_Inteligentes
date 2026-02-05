@@ -92,7 +92,7 @@ checkpoints/
 
 ## `README.md` completo (plantilla autocontenida)
 
-````markdown
+````
 # Sistemas Inteligentes — Repositorio de Prácticas
 
 Este repositorio agrupa las prácticas y entregables de la asignatura **Sistemas Inteligentes**.
