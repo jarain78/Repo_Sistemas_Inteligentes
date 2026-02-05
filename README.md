@@ -1,6 +1,4 @@
-Aquí tienes una **plantilla de repositorio Git** lista para una asignatura de **Sistemas Inteligentes**, pensada para que sea **autocontenida**, fácil de corregir y escalable a varias prácticas/proyectos.
 
----
 
 ## Estructura recomendada del repo
 
