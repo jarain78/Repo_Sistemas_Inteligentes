@@ -92,7 +92,6 @@ checkpoints/
 
 ## `README.md` completo (plantilla autocontenida)
 
-````
 # Sistemas Inteligentes — Repositorio de Prácticas
 
 Este repositorio agrupa las prácticas y entregables de la asignatura **Sistemas Inteligentes**.
@@ -201,11 +200,7 @@ La entrega se considera válida si:
 ## 9. Autoría
 
 * Alumno/a 1: Nombre Apellidos
-* Alumno/a 2: Nombre Apellidos
 
-> Nota: aunque se trabaje en pareja, la evaluación puede ser individual según la normativa de la asignatura.
-
-````
 
 ---
 
